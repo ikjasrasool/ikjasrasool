@@ -32,11 +32,6 @@ I'm a passionate **Full Stack Developer** dedicated to creating innovative and i
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikjasrasool&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
       </td>
     </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=ikjasrasool&theme=radical&no-frame=true&column=7" alt="GitHub Trophies"/>
-      </td>
-    </tr>
   </table>
 </div>
 
