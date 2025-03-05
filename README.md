@@ -34,7 +34,7 @@ I'm a passionate **Full Stack Developer** dedicated to creating innovative and i
   </table>
 </div>
 
-## 🐍 Contribution Snake Animation
+## 🐍 Contribution
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ikjasrasool/ikjasrasool/output/github-snake-dark.svg" />
