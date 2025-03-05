@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/5VKbvrjxpVJCM/giphy.gif" width="800" height="250" alt="Banner"/>
-</div>
+
 
 <h1 align="center">👋 Hello World! I'm Ikjas Rasool P🚀</h1>
 
@@ -19,8 +17,6 @@
 ---
 
 ## 🌟 About Me
-
-<img src="https://i.imgflip.com/65efzo.gif" width="250" height="250" align="right" alt="Profile Picture" style="border-radius: 50%; box-shadow: 5px 5px 15px rgba(0,0,0,0.3);"/>
 
 I'm an aspiring **Full Stack Developer** passionate about building applications that shape the world. With expertise in:
 
