@@ -38,10 +38,13 @@ I'm an aspiring **Full Stack Developer** passionate about building applications 
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/ikjasrasool&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/ikjasrasool&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikjasrasool&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikjasrasool&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
+
 
 ---
 
@@ -92,7 +95,7 @@ I'm always open to:
 **Feel free to reach out!** 📩
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=https://github.com/ikjasrasool&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=ikjasrasool&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
 
 ---
