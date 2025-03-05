@@ -21,7 +21,7 @@ I'm a passionate **Full Stack Developer** dedicated to creating innovative and i
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=ikjasrasool&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&langs_count=10&layout=compact&custom_title=My%20GitHub%20Stats&text_color=ffffff&title_color=ff6e96&icon_color=ff6e96&bg_color=151515&hide_rank=true&locale=en&show_icons=true&line_height=25" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=ikjasrasool&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
       </td>
       <td width="50%">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikjasrasool&theme=radical&hide_border=true" alt="GitHub Streak"/>
@@ -29,14 +29,10 @@ I'm a passionate **Full Stack Developer** dedicated to creating innovative and i
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikjasrasool&layout=compact&theme=radical&hide_border=true&langs_count=10&custom_title=Top%20Languages&text_color=ffffff&title_color=ff6e96&bg_color=151515" alt="Top Languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikjasrasool&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
       </td>
     </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=ikjasrasool&theme=radical&no-frame=true&column=7" alt="GitHub Trophies"/>
-      </td>
-    </tr>
+    
   </table>
 </div>
 
