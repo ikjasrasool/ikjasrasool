@@ -18,8 +18,12 @@ I'm a passionate **Full Stack Developer** dedicated to creating innovative and i
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikjasrasool&theme=dark" alt="GitHub Streak" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikjasrasool&layout=compact&theme=dark" alt="Top Languages" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ikjasrasool&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikjasrasool&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikjasrasool&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%"/>
 </p>
 
 ## 🚀 Featured Projects
@@ -52,9 +56,18 @@ I'm a passionate **Full Stack Developer** dedicated to creating innovative and i
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ikjas-rasool-163312258/"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:ikjasrasool2022@gmail.com"><img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://leetcode.com/u/Ikjas_Rasool_22CSR071/"><img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://www.linkedin.com/in/ikjas-rasool-163312258/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ikjasrasool2022@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+  </a>
+  <a href="https://leetcode.com/u/Ikjas_Rasool_22CSR071/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
+  </a>
+  <a href="https://github.com/ikjasrasool" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+  </a>
 </p>
 
 ## 📈 Profile Views
@@ -62,5 +75,13 @@ I'm a passionate **Full Stack Developer** dedicated to creating innovative and i
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ikjasrasool&style=flat-square&color=blue" alt="Profile Views"/>
 </p>
+
+## 🐍 Snake Game Contribution Animation
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+</picture>
 
 *Continuously learning, innovating, and pushing technological boundaries! 💻*
