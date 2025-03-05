@@ -11,20 +11,16 @@ I'm a passionate **Full Stack Developer** dedicated to creating innovative and i
 
 ## 🛠️ Technology Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,cpp,docker,git,github,html,css,tailwind,mongodb,postgresql" alt="Tech Stack Icons"/>
+</p>
 
 ## 📊 GitHub Statistics
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ikjasrasool&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ikjasrasool&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikjasrasool&theme=dark" alt="GitHub Streak" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikjasrasool&layout=compact&theme=dark" alt="Top Languages" width="45%"/>
+</p>
 
 ## 🚀 Featured Projects
 
@@ -55,12 +51,16 @@ I'm a passionate **Full Stack Developer** dedicated to creating innovative and i
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ikjas-rasool-163312258/)
-[![Email](https://img.shields.io/badge/Email-Contact-black?style=flat-square&logo=gmail)](mailto:ikjasrasool2022@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-black?style=flat-square&logo=leetcode)](https://leetcode.com/u/Ikjas_Rasool_22CSR071/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ikjas-rasool-163312258/"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:ikjasrasool2022@gmail.com"><img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://leetcode.com/u/Ikjas_Rasool_22CSR071/"><img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+</p>
 
 ## 📈 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=ikjasrasool&style=flat-square&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ikjasrasool&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
 
 *Continuously learning, innovating, and pushing technological boundaries! 💻*
