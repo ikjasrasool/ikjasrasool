@@ -17,16 +17,30 @@ I'm a passionate **Full Stack Developer** dedicated to creating innovative and i
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikjasrasool&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikjasrasool&theme=radical&hide_border=true" alt="GitHub Streak" width="48%"/>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=ikjasrasool&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikjasrasool&theme=radical&hide_border=true" alt="GitHub Streak"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikjasrasool&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=ikjasrasool&theme=radical&no-frame=true&column=7" alt="GitHub Trophies"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikjasrasool&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%"/>
-</p>
-
-## 🐍 Snake Game Contribution Animation
+## 🐍 Contribution Snake Animation
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ikjasrasool/ikjasrasool/output/github-snake-dark.svg" />
