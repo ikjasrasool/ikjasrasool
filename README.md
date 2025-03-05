@@ -18,10 +18,9 @@ I'm a passionate **Full Stack Developer** dedicated to creating innovative and i
 <div align="center">
   <table>
     <tr>
-      <td colspan="2" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikjasrasool&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=c" alt="Top Languages"/>
-</td>
-
+     <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=ikjasrasool&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+      </td>
       <td width="50%">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikjasrasool&theme=radical&hide_border=true" alt="GitHub Streak"/>
       </td>
