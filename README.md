@@ -11,16 +11,17 @@ I'm a passionate **Full Stack Developer** dedicated to creating innovative and i
 
 ## 🛠️ Technology Stack
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,cpp,java,spring,redux,vue,svelte,angular,graphql,docker,kubernetes,aws,azure,git,github,html,css,tailwind,bootstrap,materialui,chakra,mongodb,postgresql,mysql,firebase,redis,supabase,prisma,sequelize,webpack,vite,astro,figma,postman" alt="Tech Stack Icons"/> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,cpp,java,spring,docker,git,github,html,css,tailwind,bootstrap,mongodb,postgresql,mysql,firebase,vite,figma,postman" alt="Tech Stack Icons"/> </p>
 
 ## 📊 GitHub Statistics
 
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
-     <img src="https://github-readme-stats.vercel.app/api?username=ikjasrasool&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&langs_count=8&exclude_repo=some-c-repo1,some-c-repo2" alt="GitHub Stats"/>
+      <td colspan="2" align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikjasrasool&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=c" alt="Top Languages"/>
 </td>
+
       <td width="50%">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikjasrasool&theme=radical&hide_border=true" alt="GitHub Streak"/>
       </td>
