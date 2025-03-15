@@ -22,7 +22,7 @@ I'm a passionate **Full Stack Developer** dedicated to creating innovative and i
         <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ikjasrasool&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
       </td>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikjasrasool&theme=radical&hide_border=true" alt="GitHub Streak"/>
+        <img src="https://streak-stats.demolab.com?user=ikjasrasool&theme=radical&hide_border=true" alt="GitHub Streak"/>
       </td>
     </tr>
     <tr>
@@ -32,6 +32,7 @@ I'm a passionate **Full Stack Developer** dedicated to creating innovative and i
     </tr>
   </table>
 </div>
+
 
 
 ## 🐍 Contribution
