@@ -25,11 +25,6 @@ I'm a passionate **Full Stack Developer** dedicated to creating innovative and i
         <img src="https://streak-stats.demolab.com?user=ikjasrasool&theme=github-dark-blue&hide_border=true&border_radius=5&card_width=500&card_height=200" alt="GitHub Streak"/>
       </td>
     </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ikjasrasool&layout=compact&theme=github-dark-blue&hide_border=true" alt="Top Languages"/>
-      </td>
-    </tr>
   </table>
 </div>
 
