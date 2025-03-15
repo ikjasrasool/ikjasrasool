@@ -18,8 +18,8 @@ I'm a passionate **Full Stack Developer** dedicated to creating innovative and i
 <div align="center">
   <table>
     <tr>
-     <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=ikjasrasool&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+      <td width="50%">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ikjasrasool&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
       </td>
       <td width="50%">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikjasrasool&theme=radical&hide_border=true" alt="GitHub Streak"/>
@@ -27,12 +27,12 @@ I'm a passionate **Full Stack Developer** dedicated to creating innovative and i
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikjasrasool&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ikjasrasool&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
       </td>
     </tr>
-    
   </table>
 </div>
+
 
 ## 🐍 Contribution
 
