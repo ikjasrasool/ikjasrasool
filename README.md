@@ -50,6 +50,44 @@ I'm a passionate **Full Stack Developer** dedicated to creating innovative and i
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ikjasrasool&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="170" alt="Ikjas Rasool's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikjasrasool&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="170" alt="Ikjas Rasool's Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikjasrasool&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=5ce1e6&fire=5ce1e6&currStreakLabel=5ce1e6" alt="GitHub Streak Stats" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ikjasrasool&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  </a>
+</p>
+
+## 📈 Activity Graph
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="Ikjas's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ikjasrasool&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+  </a>
+</p>
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ikjasrasool/ikjasrasool/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ikjasrasool/ikjasrasool/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ikjasrasool/ikjasrasool/output/github-snake.svg" />
+  </picture>
+</div>
+
+
 ## 🚀 Featured Projects
 
 ### 1. 📚 LibraSync - Smart Library Management System
