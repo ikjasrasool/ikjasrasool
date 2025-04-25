@@ -124,7 +124,6 @@ I'm a passionate **Full Stack Developer** dedicated to creating innovative and i
 
 ## 📜 Certifications
 - MongoDB Certified Developer
-- AWS Certified Developer Associate
 
 ## 💼 Soft Skills
 - **Time Management**: Consistently meeting deadlines through effective prioritization
@@ -140,7 +139,7 @@ I'm a passionate **Full Stack Developer** dedicated to creating innovative and i
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikjasrasool@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ikjasrasool.github.io)
 
-📈 Profile Views
+## 📈 Profile Views
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ikjasrasool&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
 </div>
