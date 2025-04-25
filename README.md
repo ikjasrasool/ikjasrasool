@@ -9,7 +9,6 @@
 I'm a passionate **Full Stack Developer** dedicated to creating innovative and impactful technological solutions. With a strong foundation in software engineering principles and problem-solving strategies, I transform complex challenges into elegant, user-friendly applications that deliver real value.
 
 ### 💡 Core Competencies
-- **Software Architecture**: Designing robust, scalable, and maintainable systems
 - **Full Stack Development**: Creating seamless experiences from front-end to back-end
 - **Problem Solving**: Implementing innovative solutions through analytical thinking
 - **Performance Optimization**: Building efficient applications that deliver exceptional speed
@@ -19,7 +18,6 @@ I'm a passionate **Full Stack Developer** dedicated to creating innovative and i
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -28,29 +26,24 @@ I'm a passionate **Full Stack Developer** dedicated to creating innovative and i
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -58,30 +51,33 @@ I'm a passionate **Full Stack Developer** dedicated to creating innovative and i
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <a href="https://github.com/ikjasrasool">
-    <img src="https://github-readme-stats.vercel.app/api?username=ikjasrasool&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="180"/>
-  </a>
-  <a href="https://github.com/ikjasrasool">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikjasrasool&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="180"/>
-  </a>
-  <br/>
-  <a href="https://github.com/ikjasrasool">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikjasrasool&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=5ce1e6&fire=5ce1e6&currStreakLabel=5ce1e6" height="180"/>
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ikjasrasool&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="170" alt="Ikjas Rasool's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikjasrasool&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="170" alt="Ikjas Rasool's Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikjasrasool&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=5ce1e6&fire=5ce1e6&currStreakLabel=5ce1e6" alt="GitHub Streak Stats" />
+</p>
 
 ## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ikjasrasool&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ikjasrasool&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ## 📈 Activity Graph
-<div align="center">
-  <img alt="Ikjas's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ikjasrasool&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-</div>
 
-##  Contribution Graph
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="Ikjas's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ikjasrasool&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+  </a>
+</p>
+
+## 🐍 Contribution Graph
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ikjasrasool/ikjasrasool/output/github-snake-dark.svg" />
@@ -104,7 +100,7 @@ I'm a passionate **Full Stack Developer** dedicated to creating innovative and i
   - Real-time availability tracking with notifications
   - User recommendation engine based on borrowing history
   - Administrative dashboard with analytics and reports
-- **Technologies**: React, Node.js, Express, PostgreSQL, Redux, JWT Authentication
+- **Technologies**: React, Node.js, Express, PostgreSQL, JWT Authentication
 - **Links**: [Live Demo](https://ikjasrasool.github.io/library/) | [GitHub Repository](https://github.com/ikjasrasool/library)
 
 ### 2. 🎓 College Placement Portal
@@ -119,8 +115,8 @@ I'm a passionate **Full Stack Developer** dedicated to creating innovative and i
   - Company job posting and application tracking
   - Interview scheduling and feedback system
   - Placement analytics and report generation
-- **Technologies**: MERN Stack (MongoDB, Express, React, Node.js), Redux, Material UI
-- **Links**: [Live Demo](https://college-placement-portal.vercel.app/) | [GitHub Repository](https://github.com/ikjasrasool/college_placement_fullstack_project)
+- **Technologies**: Spring Boot, Java, Thymeleaf, MySQL, Spring Security, Spring Data JPA, Bootstrap
+- **Links**: [GitHub Repository](https://github.com/ikjasrasool/college_placement_fullstack_project)
 
 ### 3. 🚗 VehicleXchange - Advanced Reselling Platform
 
@@ -133,10 +129,9 @@ I'm a passionate **Full Stack Developer** dedicated to creating innovative and i
   - AI-powered vehicle valuation system
   - Document verification and history checking
   - In-app messaging and negotiation system
-  - Payment escrow and transaction security
-- **Technologies**: JavaScript, PostgreSQL, Node.js, Express, JWT, Stripe API
-- **Links**: [Live Demo](https://vehiclexchange.vercel.app/) | [GitHub Repository](https://github.com/ikjasrasool/reselling_fullstack_project)
-
+  - Payment integration and transaction security
+- **Technologies**: JavaScript, PostgreSQL, Node.js, Express, JWT, RESTful API
+- **Links**: [GitHub Repository](https://github.com/ikjasrasool/reselling_fullstack_project)
 
 
 ## 🌱 Current Learning Focus
@@ -148,6 +143,7 @@ I'm a passionate **Full Stack Developer** dedicated to creating innovative and i
 - **Performance Optimization**: Advanced techniques for frontend and backend optimization
 
 ## 📜 Certifications
+
 - MongoDB Certified Developer
 
 ## 🤝 Connect With Me
@@ -164,12 +160,6 @@ I'm a passionate **Full Stack Developer** dedicated to creating innovative and i
   </a>
   <a href="https://github.com/ikjasrasool" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://twitter.com/ikjasrasool" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://medium.com/@ikjasrasool" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </div>
 
