@@ -91,7 +91,7 @@ I'm a passionate **Full Stack Developer** dedicated to creating innovative and i
 ### 1. 📚 Advanced Library Management System
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ikjasrasool/library/main/screenshots/dashboard.png" alt="Library Management System" width="600"/>
+  ![Screenshot (11)](https://github.com/user-attachments/assets/0fb2c65c-39a8-4ee9-b97f-ca1ed254e5c9)
 </div>
 
 - **Description**: A comprehensive library management solution with integrated digital catalog and borrowing system
