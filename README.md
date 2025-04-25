@@ -54,6 +54,10 @@ I'm a passionate **Full Stack Developer** dedicated to creating innovative and i
 
 ### 1. 📚 LibraSync - Smart Library Management System
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0fb2c65c-39a8-4ee9-b97f-ca1ed254e5c9" alt="Screenshot (11)" width="800" />
+</div>
+
 - **Description**: A comprehensive library management solution that revolutionizes the borrowing and return process through automation and digital tracking.
 - **Key Features**:
   - QR code-based book checkout and return system for frictionless transactions
@@ -71,6 +75,10 @@ I'm a passionate **Full Stack Developer** dedicated to creating innovative and i
 
 ### 2. 🎓 Placematics - Comprehensive Placement Portal
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f83bda2b-b031-47dd-9e57-52dc26ef222d" alt="Screenshot (12)" width="800"/>
+</div>
+
 - **Description**: End-to-end platform that bridges the gap between students and recruiters, streamlining the campus recruitment process through digital automation.
 - **Key Features**:
   - Customizable student profiles with skills assessment and portfolio integration
@@ -87,6 +95,10 @@ I'm a passionate **Full Stack Developer** dedicated to creating innovative and i
 - **Links**: [GitHub Repository](https://github.com/ikjasrasool/college_placement_fullstack_project)
 
 ### 3. 🛒 ReSellify - Local Marketplace Platform
+
+ <div align="center">
+  <img src="https://github.com/user-attachments/assets/5a8371c2-0b3b-485b-b2f2-f82121c6d814" alt="College Placement Solution" width="800"/>
+</div>
 
 - **Description**: A full-featured marketplace application enabling secure and efficient buying and selling of pre-owned items within local communities.
 - **Key Features**:
