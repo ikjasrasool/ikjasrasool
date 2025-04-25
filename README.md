@@ -123,10 +123,6 @@ I'm a passionate **Full Stack Developer** dedicated to creating innovative and i
 <div align="center">
   <!-- First image from GitHub user attachments -->
   <img src="https://github.com/user-attachments/assets/f83bda2b-b031-47dd-9e57-52dc26ef222d" alt="Screenshot (12)" width="800"/>
-  <!-- Spacer for visual separation -->
-<br><br>
-  <!-- Second image from your repository -->
-  <img src="https://raw.githubusercontent.com/ikjasrasool/reselling_fullstack_project/main/screenshots/homepage.png" alt="Vehicle Reselling Platform" width="800"/>
 </div>
 
 - **Description**: Full-featured marketplace for buying and selling used vehicles with verification and valuation tools
