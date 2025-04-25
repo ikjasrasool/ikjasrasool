@@ -140,6 +140,14 @@ I'm a passionate **Full Stack Developer** dedicated to creating innovative and i
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikjasrasool@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ikjasrasool.github.io)
 
+📈 Profile Views
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ikjasrasool&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
+</div>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
 ---
 
 ✨ Continuously learning, innovating, and pushing technological boundaries! ✨
