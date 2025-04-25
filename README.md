@@ -104,10 +104,12 @@ I'm a passionate **Full Stack Developer** dedicated to creating innovative and i
 - **Links**: [Live Demo](https://ikjasrasool.github.io/library/) | [GitHub Repository](https://github.com/ikjasrasool/library)
 
 ### 2. 🎓 College Placement Portal
+
 <div align="center">
-  <!-- First image from GitHub user attachments -->
   <img src="https://github.com/user-attachments/assets/f83bda2b-b031-47dd-9e57-52dc26ef222d" alt="Screenshot (12)" width="800"/>
 </div>
+
+
 - **Description**: End-to-end platform connecting students with potential employers and streamlining the campus recruitment process
 - **Key Features**:
   - Student profile builder with skills assessment
@@ -118,9 +120,12 @@ I'm a passionate **Full Stack Developer** dedicated to creating innovative and i
 - **Links**: [GitHub Repository](https://github.com/ikjasrasool/college_placement_fullstack_project)
 
 ### 3. 🚗 VehicleXchange - Advanced Reselling Platform
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/5a8371c2-0b3b-485b-b2f2-f82121c6d814" alt="College Placement Solution" width="800"/>
 </div>
+
+
 - **Description**: Full-featured marketplace for buying and selling used vehicles with verification and valuation tools
 - **Key Features**:
   - AI-powered vehicle valuation system
