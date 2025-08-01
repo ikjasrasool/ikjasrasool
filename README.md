@@ -133,6 +133,7 @@ I'm a **Full Stack Developer** passionate about designing, developing and deploy
     <img alt="github-snake" src="https://raw.githubusercontent.com/ikjasrasool/ikjasrasool/output/github-snake.svg" />
   </picture>
 </div>
+
 ---
 
 ## 🤝 Connect with Me
@@ -152,7 +153,9 @@ I'm a **Full Stack Developer** passionate about designing, developing and deploy
   </a>
 </div>
 
----## 📈 Profile Views & Dev Quotes
+---
+
+## 📈 Profile Views & Dev Quotes
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ikjasrasool&style=for-the-badge&color=0e75b6"/><br/>
