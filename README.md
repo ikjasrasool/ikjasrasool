@@ -124,6 +124,17 @@ I'm a **Full Stack Developer** passionate about designing, developing and deploy
 
 ---
 
+## 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ikjasrasool/ikjasrasool/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ikjasrasool/ikjasrasool/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ikjasrasool/ikjasrasool/output/github-snake.svg" />
+  </picture>
+</div>
+---
+
 ## 🤝 Connect with Me
 
 <div align="center">
@@ -139,6 +150,13 @@ I'm a **Full Stack Developer** passionate about designing, developing and deploy
   <a href="mailto:ikjasrasool@example.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</div>
+
+---## 📈 Profile Views & Dev Quotes
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ikjasrasool&style=for-the-badge&color=0e75b6"/><br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </div>
 
 ---
