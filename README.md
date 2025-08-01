@@ -13,7 +13,7 @@
 
 ## 🌟 About Me
 
-I'm a **Full Stack Developer** passionate about designing, developing, and deploying end-to-end solutions that deliver real value. I thrive on solving complex problems, building scalable architectures, and keeping user experience at the center of every project.
+I'm a **Full Stack Developer** passionate about designing, developing and deploying end-to-end solutions that deliver real value. I thrive on solving complex problems, building scalable architectures, and keeping user experience at the center of every project.
 
 ---
 
@@ -46,7 +46,7 @@ I'm a **Full Stack Developer** passionate about designing, developing, and deplo
 - **Problem Solved:** Reduces highway wait times by enabling travelers to pre-order meals.
 - **Features:** Real-time menu, live bus tracking, instant orders (no login), admin dashboard, analytics, payment integration.
 - **Tech Stack:** React · Tailwind · Bootstrap · Node.js · Express · MongoDB · Razorpay · EmailJS  
-- **Links:** User App · Admin Panel · [Repository](https://github.com/ikjasrasool/hotel)
+- **Links:** [User App](https://hotel-1-f248.onrender.com/) · [Admin Panel](https://hotel-2-zkuz.onrender.com/) · [Repository](https://github.com/ikjasrasool/hotel)
 
 ---
 
@@ -58,7 +58,7 @@ I'm a **Full Stack Developer** passionate about designing, developing, and deplo
 
 - **Purpose:** QR code based automated book checkout and library tracking system.
 - **Tech Stack:** React · Firebase · Tailwind · Node.js  
-- **Links:** Live Demo · [Repository](https://github.com/ikjasrasool/library)
+- **Links**: [Live Demo](https://ikjasrasool.github.io/library/) | [GitHub Repository](https://github.com/ikjasrasool/library)
 
 ---
 
