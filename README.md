@@ -3,9 +3,7 @@
 <div align="center">
   <h1>👋 Hello! I'm <span style="color:#5ce1e6;">Ikjas Rasool P</span></h1>
   <h3>🚀 Full Stack Developer | Software Engineer</h3>
-  <p>
-    <b>Innovating user-centric solutions, bridging efficiency and experience.</b>
-  </p>
+  <p><b>Innovating user-centric solutions, bridging efficiency and experience.</b></p>
 </div>
 
 ---
@@ -16,10 +14,10 @@ I'm a **Full Stack Developer** focused on building robust, scalable, and impactf
 
 ---
 
-### 🧰 Core Skills
+## 🧰 Core Skills
 
-- **End-to-End Development:** Frontend, Backend & DB
-- **System Design:** Scalable, maintainable architectures
+- **End-to-End Development:** Frontend, Backend & Database
+- **System Design:** Scalable and maintainable architectures
 - **Team Leadership:** Code reviews, project guidance, mentoring
 - **Performance Optimization:** Speed & efficiency focus
 - **Agile Delivery:** CI/CD, iterative release cycles
@@ -29,83 +27,107 @@ I'm a **Full Stack Developer** focused on building robust, scalable, and impactf
 
 ## 🛠️ Tech Toolbox
 
-**Languages & Core:**
-![C](https://img.shields.io/badge/-C-00599C?logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus)
-![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+<div align="center">
 
-**Frontend:**
-![React](https://img.shields.io/badge/-React-20232A?logo=react)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap)
-![EJS](https://img.shields.io/badge/-EJS-B4CA65?logo=ejs)
-![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?logo=thymeleaf)
+### Languages  
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
-**Backend:**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
-![Express](https://img.shields.io/badge/-Express-000?logo=express)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring-boot)
-![Flask](https://img.shields.io/badge/-Flask-000?logo=flask)
+### Frontend  
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black"/>
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>
 
-**Database:**
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase)
+### Backend  
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 
-**Tools & DevOps:**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions)
+### Database  
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+
+### DevOps & Tools  
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
+
+</div>
 
 ---
 
 ## 🚀 Projects Portfolio
 
-### 1. 🚌 Saravana Bhavan Express – Highway Food Pre-Ordering System
+#### 1. 🚌 Saravana Bhavan Express – Highway Food Pre-Ordering System
 
-<img src="https://github.com/user-attachments/assets/0fb2c65c-39a8-4ee9-b97f-ca1ed254e5c9" alt="Saravana Bhavan Express Screenshot" width="700" />
+<div align="center">
+  <img width="800" alt="Saravana Bhavan Express Screenshot" src="https://github.com/user-attachments/assets/318c6688-07e8-41f1-8474-fbf7d3e4a6f7" />
+</div>
 
 - **Solution:** Enables bus travelers to pre-order food from highway restaurants, minimizing wait time and maximizing freshness.
-- **Features:** Real-time menu, bus/location tracking, instant ordering (no login), live admin order panel, analytics, online payments.
-- **Tech:** React, Tailwind CSS, Bootstrap, Node.js, Express.js, MongoDB Atlas, Razorpay, EmailJS
-- [User Interface](https://hotel-1-f248.onrender.com/) • [Admin Panel](https://hotel-2-zkuz.onrender.com/) • [GitHub](https://github.com/ikjasrasool/hotel)
+- **Features:** Real-time menu, location tracking, instant ordering (no login), live admin panel, analytics, online payments.
+- **Tech:** React, Tailwind CSS, Bootstrap, Node.js, Express.js, MongoDB Atlas, Razorpay, EmailJS  
+- [User Interface](https://hotel-1-f248.onrender.com/) | [Admin Panel](https://hotel-2-zkuz.onrender.com/) | [GitHub](https://github.com/ikjasrasool/hotel)
 
 ---
 
-### 2. 📚 LibraSync – Smart Library Management
+#### 2. 📚 LibraSync – Smart Library Management
 
-<img src="https://github.com/user-attachments/assets/0fb2c65c-39a8-4ee9-b97f-ca1ed254e5c9" width="700"/>
+<div align="center">
+  <img width="700" src="https://github.com/user-attachments/assets/0fb2c65c-39a8-4ee9-b97f-ca1ed254e5c9" />
+</div>
 
 - **Solution:** Automated, QR-based library operations with real-time tracking and smart recommendations.
 - **Tech:** React, Firebase, Tailwind CSS, Node.js, Express, QR API  
-- [Live Demo](https://ikjasrasool.github.io/library/) • [GitHub](https://github.com/ikjasrasool/library)
+- [Live Demo](https://ikjasrasool.github.io/library/) | [GitHub](https://github.com/ikjasrasool/library)
 
 ---
 
-### 3. 🎓 Placematics – Campus Placement Portal
+#### 3. 🎓 Placematics – Campus Placement Portal
 
-<img src="https://github.com/user-attachments/assets/f83bda2b-b031-47dd-9e57-52dc26ef222d" width="700"/>
+<div align="center">
+  <img width="700" src="https://github.com/user-attachments/assets/f83bda2b-b031-47dd-9e57-52dc26ef222d" />
+</div>
 
-- **Solution:** Complete digital platform for placement management, student profiles, recruiter dashboards, analytics, automated scheduling.
+- **Solution:** Complete digital platform for placement management, student profiles, recruiter dashboards, analytics, and scheduling.
 - **Tech:** Spring Boot, Java, MySQL, Thymeleaf, Bootstrap  
 - [GitHub](https://github.com/ikjasrasool/college_placement_fullstack_project)
 
 ---
 
-### 4. 🛒 ReSellify – Local Marketplace
+#### 4. 🛒 ReSellify – Local Marketplace
 
-<img src="https://github.com/user-attachments/assets/5a8371c2-0b3b-485b-b2f2-f82121c6d814" width="700"/>
+<div align="center">
+  <img width="700" src="https://github.com/user-attachments/assets/5a8371c2-0b3b-485b-b2f2-f82121c6d814" />
+</div>
 
 - **Solution:** Secure, location-based platform for buying/selling used items with ratings, in-app chat, and robust authentication.
 - **Tech:** Flask, MySQL, JavaScript, SQLAlchemy, JWT  
 - [GitHub](https://github.com/ikjasrasool/reselling_fullstack_project)
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ikjasrasool/ikjasrasool/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ikjasrasool/ikjasrasool/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/ikjasrasool/ikjasrasool/output/github-snake.svg" />
+  </picture>
+</div>
 
 ---
 
@@ -115,7 +137,7 @@ I'm a **Full Stack Developer** focused on building robust, scalable, and impactf
 - **Scalable Systems:** Microservices, distributed design
 - **ML/AI:** NLP & Computer Vision
 - **Blockchain:** dApps & smart contracts
-- **Optimization:** Advanced front & backend perf
+- **Optimization:** Advanced frontend & backend performance
 
 ---
 
@@ -127,12 +149,12 @@ I'm a **Full Stack Developer** focused on building robust, scalable, and impactf
 
 ## 💼 Soft Skills
 
-- Time Management | Adaptability | Clear Communication
-- Analytical Problem Solver | Team Collaboration | Lifelong Learning
+- Time Management • Adaptability • Communication
+- Analytical Problem Solving • Team Collaboration • Continuous Learning
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ikjasrasool&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="170"/>
@@ -152,10 +174,20 @@ I'm a **Full Stack Developer** focused on building robust, scalable, and impactf
 
 ## 🤝 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/ikjasrasool)
-[![GitHub](https://img.shields.io/badge/-GitHub-100000?logo=github&logoColor=white)](https://github.com/ikjasrasool)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=about.me&logoColor=white)](https://portfolio-ikjas.vercel.app/)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:ikjasrasool@example.com)
+<div align="center">
+  <a href="https://linkedin.com/in/ikjasrasool">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ikjasrasool">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://portfolio-ikjas.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+  <a href="mailto:ikjasrasool@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
