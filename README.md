@@ -85,28 +85,6 @@ I'm a **Full Stack Developer** passionate about designing, developing and deploy
 
 ---
 
-## 🌱 Currently Learning
-
-- Cloud Platforms: AWS, Multi-cloud Architectures  
-- Scalable Architectures: Microservices, Event-Driven Systems  
-- Machine Learning & AI: NLP, Computer Vision  
-- Blockchain: dApps, Smart Contracts  
-- Advanced APIs: REST, GraphQL  
-
----
-
-## 🏅 Certifications
-
-- MongoDB Certified Developer
-
----
-
-## 💼 Soft Skills
-
-- Time Management · Adaptability · Communication  
-- Analytical Thinking · Team Collaboration · Lifelong Learning
-
----
 
 ## 📊 GitHub Stats
 
