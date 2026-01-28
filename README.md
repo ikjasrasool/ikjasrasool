@@ -2,143 +2,95 @@
 
 <div align="center">
 
-# 👋 Hi, I'm <span style="color:#5ce1e6;">Ikjas Rasool P</span>
-**Full Stack Developer · Software Engineer**
+# Hi, I’m Ikjas Rasool P 👋  
+**Full Stack Developer | Software Engineer**
 
-*Driving innovation & building seamless technology solutions for users and teams alike.*
-
----
+Building scalable web applications with clean architecture, strong backends, and intuitive user experiences.
 
 </div>
 
-## 🌟 About Me
+---
 
-I'm a **Full Stack Developer** passionate about designing, developing and deploying end-to-end solutions that deliver real value. I thrive on solving complex problems, building scalable architectures, and keeping user experience at the center of every project.
+## About Me
+
+I am a Computer Science Engineering student (CSE’26) at Kongu Engineering College with a strong interest in Full Stack Development, Backend Engineering, and Database Management. I enjoy designing and developing end-to-end applications that solve real-world problems and deliver measurable impact.
+
+I have hands-on experience working with modern frontend frameworks, backend technologies, databases, and deployment platforms. I have also led teams in hackathons and project-based development, including winning **1st place at Hacknovate’24**, where we built a complete placement management system.
+
+I am currently open to opportunities as a **Full Stack Developer, Software Engineer, or Backend Developer**, where I can contribute, learn, and grow.
 
 ---
 
-## 🛠️ Tech Toolbox
+## Technical Skills
+
+**Languages:** C, C++, Java, Python, JavaScript  
+**Frontend:** React, HTML, CSS, Tailwind CSS, Bootstrap, EJS, Thymeleaf  
+**Backend:** Node.js, Express.js, Spring Boot, Flask  
+**Databases:** MongoDB, MySQL, PostgreSQL, Firebase  
+**Tools & Platforms:** Git, GitHub, Postman, VS Code, Figma, Vercel, Render  
+
+---
+
+## Featured Projects
+
+### Saravana Bhavan Express – Highway Food Pre-Ordering System
+A web-based solution enabling travelers to pre-order food from highway restaurants, significantly reducing waiting time.
+
+- Built a dual-dashboard system for users and admins
+- Implemented real-time menu updates and order management
+- Integrated online payments and email notifications  
+**Tech Stack:** React, Node.js, Express, MongoDB, Tailwind, Razorpay  
+🔗 [Live App](https://hotel-1-f248.onrender.com/) | [Repository](https://github.com/ikjasrasool/hotel)
+
+---
+
+### Placematics – Campus Placement Management System
+A full-stack placement portal designed to streamline recruiter–student interactions.
+
+- Role-based authentication for students and recruiters
+- Automated placement workflows and analytics dashboards
+- Reduced manual coordination efforts significantly  
+**Tech Stack:** Spring Boot, Java, MySQL, Thymeleaf  
+🔗 [Repository](https://github.com/ikjasrasool/college_placement_fullstack_project)
+
+---
+
+### LibraSync – Smart Library Management System
+A QR-code based library system for automated book issue and return.
+
+**Tech Stack:** React, Node.js, Firebase, Tailwind  
+🔗 [Live Demo](https://ikjasrasool.github.io/library/) | [Repository](https://github.com/ikjasrasool/library)
+
+---
+
+### ReSellify – Local Marketplace Platform
+A web application for buying and selling pre-owned items locally.
+
+**Tech Stack:** Flask, MySQL, JavaScript, SQLAlchemy  
+🔗 [Repository](https://github.com/ikjasrasool/reselling_fullstack_project)
+
+---
+
+## GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ikjasrasool&show_icons=true&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikjasrasool&layout=compact&hide_border=true" height="150"/>
+</div>
+
+---
+
+## Connect With Me
+
+- 🌐 Portfolio: https://portfolio-ikjas.vercel.app  
+- 💼 LinkedIn: https://linkedin.com/in/ikjasrasool  
+- 💻 GitHub: https://github.com/ikjasrasool  
+- 📧 Email: ikjasrasoolp.22cse@kongu.edu  
+
+---
 
 <div align="center">
 
-| 💻 Languages      | 🌐 Frontend                   | 🚀 Backend                    | 🗄️ Database                 | 🔧 Tools & DevOps                 |
-|-------------------|------------------------------|-------------------------------|-----------------------------|---------------------------------|
-| <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="28"/> | <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28"/> | <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="28"/> | <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="28"/> | <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="28"/> |
-| <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="28"/> | <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="28"/> | <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="28"/> | <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="28"/> | <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="28"/> |
-| <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="28"/> | <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="28"/> | <img alt="Spring Boot" src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" height="28"/> | <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28"/> | <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="28"/> |
-| <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28"/> | <img alt="EJS" src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" height="28"/> | <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="28"/> | <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="28"/> | <img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="28"/> |
-| <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="28"/> | <img alt="Thymeleaf" src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" height="28"/> |                               |                             | <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="28"/> |
+**Always learning. Building reliable software. Open to opportunities.**
 
 </div>
-
-
----
-
-## 🚩 Featured Projects
-
-### 🚌 Saravana Bhavan Express – Highway Food Pre-Ordering System
-
-<div align="center">
-  <img width="1920" height="863" alt="Screenshot (232)" src="https://github.com/user-attachments/assets/4834e111-3eb8-4edd-ae4f-84d501eba0c2" />
-</div>
-
-- **Problem Solved:** Reduces highway wait times by enabling travelers to pre-order meals.
-- **Features:** Real-time menu, live bus tracking, instant orders (no login), admin dashboard, analytics, payment integration.
-- **Tech Stack:** React · Tailwind · Bootstrap · Node.js · Express · MongoDB · Razorpay · EmailJS  
-- **Links:** [User App](https://hotel-1-f248.onrender.com/) · [Admin Panel](https://hotel-2-zkuz.onrender.com/) · [Repository](https://github.com/ikjasrasool/hotel)
-
----
-
-### 📚 LibraSync – Smart Library Management System
-
-<div align="center">
-  <img alt="LibraSync" src="https://github.com/user-attachments/assets/0fb2c65c-39a8-4ee9-b97f-ca1ed254e5c9" width="700"/>
-</div>
-
-- **Purpose:** QR code based automated book checkout and library tracking system.
-- **Tech Stack:** React · Firebase · Tailwind · Node.js  
-- **Links**: [Live Demo](https://ikjasrasool.github.io/library/) | [GitHub Repository](https://github.com/ikjasrasool/library)
-
----
-
-### 🎓 Placematics – Campus Placement Portal
-
-<div align="center">
-  <img alt="Placematics" src="https://github.com/user-attachments/assets/f83bda2b-b031-47dd-9e57-52dc26ef222d" width="700"/>
-</div>
-
-- **Purpose:** Streamlines campus placements via recruiter dashboards, analytics, scheduling, secure login.
-- **Tech Stack:** Spring Boot · Java · MySQL · Thymeleaf  
-- **Links:** [Repository](https://github.com/ikjasrasool/college_placement_fullstack_project)
-
----
-
-### 🛒 ReSellify – Local Marketplace
-
-<div align="center">
-  <img alt="ReSellify" src="https://github.com/user-attachments/assets/5a8371c2-0b3b-485b-b2f2-f82121c6d814" width="700"/>
-</div>
-
-- **Purpose:** Local buy/sell platform for pre-owned items with chat and rating features.
-- **Tech Stack:** Flask · MySQL · JavaScript · SQLAlchemy  
-- **Links:** [Repository](https://github.com/ikjasrasool/reselling_fullstack_project)
-
----
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ikjasrasool&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikjasrasool&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="160" alt="Most Used Languages" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikjasrasool&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=5ce1e6&fire=5ce1e6&currStreakLabel=5ce1e6" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=ikjasrasool&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-  <br />
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ikjasrasool&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ikjasrasool/ikjasrasool/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ikjasrasool/ikjasrasool/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/ikjasrasool/ikjasrasool/output/github-snake.svg" />
-  </picture>
-</div>
-
----
-
-## 🤝 Connect with Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/ikjasrasool" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/ikjasrasool" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://portfolio-ikjas.vercel.app/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:ikjasrasool@example.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
----
-
-## 📈 Profile Views & Dev Quotes
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ikjasrasool&style=for-the-badge&color=0e75b6"/><br/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</div>
-
----
-
-<div align="center"><b>✨ Always learning • Building what matters • Let’s connect! ✨</b></div>
