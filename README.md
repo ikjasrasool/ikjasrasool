@@ -9,10 +9,9 @@ I'm passionate about building scalable web applications and solving real-world p
 ## 🚀 About Me
 
 - 🎓 **B.E. Computer Science Engineering** at Kongu Engineering College (CGPA: 8.40/10)
-- 💼 **AI/ML Intern** at SystimaNX IT Solutions Pvt Ltd
 - 🏆 **1st Place** at Hacknovate '24 - Led team to victory with placement portal solution
 - 🥈 **2nd Prize** at IDEALOGY '24 and COGNISSANCE '24 for Smart Glass project
-- 🌱 Currently exploring advanced data structures, algorithms, and system design
+- 🌱 Currently exploring advanced data structures, algorithms and system design
 - 📍 Based in Tiruppur, Tamil Nadu, India
 
 ---
@@ -59,7 +58,9 @@ I'm passionate about building scalable web applications and solving real-world p
 
 ### 🚌 [Saravana Bhavan Express](https://github.com/ikjasrasool/hotel)
 **Highway Food Pre-Ordering Platform**
-
+<div align="center">
+  <img width="1920" height="863" alt="Screenshot (232)" src="https://github.com/user-attachments/assets/4834e111-3eb8-4edd-ae4f-84d501eba0c2" />
+</div>
 A full-stack web application that revolutionizes highway dining by enabling travelers to pre-order meals, reducing wait times by 75%.
 
 **Tech Stack:** React · Node.js · Express.js · MongoDB · Razorpay · EmailJS · Tailwind CSS
@@ -78,7 +79,9 @@ A full-stack web application that revolutionizes highway dining by enabling trav
 
 ### 📚 [LibraSync](https://github.com/ikjasrasool/library)
 **Smart Library Management System**
-
+<div align="center">
+  <img alt="LibraSync" src="https://github.com/user-attachments/assets/0fb2c65c-39a8-4ee9-b97f-ca1ed254e5c9" width="700"/>
+</div>
 QR code-based automated book checkout system designed for efficient library tracking and management.
 
 **Tech Stack:** React · Firebase · Tailwind CSS · Node.js
@@ -95,7 +98,9 @@ QR code-based automated book checkout system designed for efficient library trac
 
 ### 🎓 [Placematics](https://github.com/ikjasrasool/college_placement_fullstack_project)
 **Campus Placement Management Portal**
-
+<div align="center">
+  <img alt="Placematics" src="https://github.com/user-attachments/assets/f83bda2b-b031-47dd-9e57-52dc26ef222d" width="700"/>
+</div>
 Comprehensive placement management system that streamlines the entire recruitment process with role-based authentication and automated matching.
 
 **Tech Stack:** Spring Boot · Java · MySQL · Thymeleaf · HTML · CSS
@@ -111,7 +116,9 @@ Comprehensive placement management system that streamlines the entire recruitmen
 
 ### 🛒 [ReSellify](https://github.com/ikjasrasool/reselling_fullstack_project)
 **Local Marketplace Platform**
-
+<div align="center">
+  <img alt="ReSellify" src="https://github.com/user-attachments/assets/5a8371c2-0b3b-485b-b2f2-f82121c6d814" width="700"/>
+</div>
 Community-based buy/sell platform for pre-owned items with integrated chat and rating system.
 
 **Tech Stack:** Flask · MySQL · JavaScript · SQLAlchemy · HTML · CSS
@@ -152,7 +159,7 @@ AI-powered application that converts sign language gestures to text and speech f
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ikjasrasool&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ikjasrasool&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
@@ -168,7 +175,6 @@ AI-powered application that converts sign language gestures to text and speech f
 - System Design & Architecture
 - Database Management Systems
 - Object-Oriented Programming
-- Machine Learning & AI
 
 ---
 
@@ -213,7 +219,6 @@ AI-powered application that converts sign language gestures to text and speech f
 - 🥈 **2nd Prize** - IDEALOGY '24 (Project Competition)
 - 🥈 **2nd Prize** - COGNISSANCE '24 (Technical Event)
 - 📈 **CGPA: 8.40/10** - Consistent academic performance
-- 🎯 **91.5%** in Higher Secondary Education (HSC)
 
 ---
 
