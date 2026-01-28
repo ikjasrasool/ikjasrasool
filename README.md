@@ -59,7 +59,7 @@ I'm passionate about building scalable web applications and solving real-world p
 ### 🚌 [Saravana Bhavan Express](https://github.com/ikjasrasool/hotel)
 **Highway Food Pre-Ordering Platform**
 <div align="center">
-  <img width="1920" height="863" alt="Screenshot (232)" src="https://github.com/user-attachments/assets/4834e111-3eb8-4edd-ae4f-84d501eba0c2" />
+  <img  alt="Screenshot (232)" src="https://github.com/user-attachments/assets/4834e111-3eb8-4edd-ae4f-84d501eba0c2" />
 </div>
 A full-stack web application that revolutionizes highway dining by enabling travelers to pre-order meals, reducing wait times by 75%.
 
