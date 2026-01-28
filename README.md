@@ -39,7 +39,7 @@ I'm a **Full Stack Developer** passionate about designing, developing and deploy
 ### 🚌 Saravana Bhavan Express – Highway Food Pre-Ordering System
 
 <div align="center">
-  <img alt="Saravana Bhavan Express" src="https://github.com/user-attachments/assets/318c6688-07e8-41f1-8474-fbf7d3e4a6f7" width="700"/>
+  <img width="1920" height="863" alt="Screenshot (232)" src="https://github.com/user-attachments/assets/4834e111-3eb8-4edd-ae4f-84d501eba0c2" />
 </div>
 
 - **Problem Solved:** Reduces highway wait times by enabling travelers to pre-order meals.
